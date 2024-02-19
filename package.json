@@ -1,0 +1,26 @@
+{
+  "name": "connect-lambda-apicall",
+  "version": "1.0.0",
+  "description": "API CALL FROM LAMBDA from Amazon Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcmeher/connect-lambda-apicall.git"
+  },
+  "keywords": [
+    "api",
+    "connect"
+  ],
+  "author": "Dhruba C Meher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcmeher/connect-lambda-apicall/issues"
+  },
+  "homepage": "https://github.com/dcmeher/connect-lambda-apicall#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
